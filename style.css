@@ -1,3 +1,19 @@
 #teimutm {
+    font-family: 'Roboto', sans-serif;
+}
+
+#teimutm ul{
+    list-style-type: none;
+}
+
+#teimutm li{
+    padding: 1em;
+    font-size: large;
+    font-weight: bold;
+}
+
+#teimutm li span.note {
     font-style: italic;
+    font-size: small;
+    font-weight: normal;
 }
