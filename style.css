@@ -1,5 +1,5 @@
 #teimutm {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 #teimutm ul{
@@ -9,7 +9,6 @@
 #teimutm li{
     padding: 1em;
     font-size: large;
-    font-weight: bold;
 }
 
 #teimutm li span.note {
